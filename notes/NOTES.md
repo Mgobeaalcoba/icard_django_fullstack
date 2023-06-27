@@ -1,6 +1,6 @@
 # Proyecto: Carta eléctronica para un restaurante
 
-1. Dependencias: Node, Npm(Viene con node), Yarm(Se instala luego de NPM), Python3, Django, Django Rest Framework
+1. Dependencias: Node, Npm(Viene con node), Yarn(Se instala luego de NPM), Python3, Django, Django Rest Framework
 
 ---
 
